@@ -1,0 +1,376 @@
+Setup
+Asekuro chose heads for the opening coin flip.
+Asekuro won the coin toss.
+golemeee decided to go second.
+Asekuro drew 7 cards for the opening hand.
+- 7 drawn cards.
+golemeee drew 7 cards for the opening hand.
+- 7 drawn cards.
+   • Buddy-Buddy Poffin, Rare Candy, Buddy-Buddy Poffin, Boss's Orders, Ciphermaniac's Codebreaking, Basic Fire Energy, Ultra Ball
+golemeee took a mulligan.
+- Cards revealed from Mulligan 1
+   • Buddy-Buddy Poffin, Rare Candy, Buddy-Buddy Poffin, Boss's Orders, Ciphermaniac's Codebreaking, Basic Fire Energy, Ultra Ball
+Asekuro drew 1 more card because golemeee took at least 1 mulligan.
+- Asekuro drew a card.
+Asekuro played Murkrow to the Active Spot.
+golemeee played Manaphy to the Active Spot.
+
+Turn # 1 - Asekuro's Turn
+Asekuro drew a card.
+Asekuro played Poké Ball.
+- Asekuro flipped a coin and it landed on tails.
+Asekuro attached Basic Darkness Energy to Murkrow in the Active Spot.
+Asekuro ended their turn.
+
+Turn # 1 - golemeee's Turn
+golemeee drew Basic Fire Energy.
+golemeee ended their turn.
+
+Turn # 2 - Asekuro's Turn
+Asekuro drew a card.
+Asekuro played Judge.
+- Asekuro shuffled 6 cards into their deck.
+- golemeee moved golemeee's 7 cards to their deck.
+   • Ciphermaniac's Codebreaking, Rare Candy, Technical Machine: Evolution, Charmeleon, Ultra Ball, Boss's Orders, Basic Fire Energy
+- Asekuro drew 4 cards.
+- golemeee drew 4 cards.
+   • Basic Fire Energy, Switch, Nest Ball, Bibarel
+Asekuro played Great Ball.
+- Asekuro drew Ditto.
+- Asekuro shuffled their deck.
+Asekuro played Ditto to the Bench.
+Asekuro played Wattrel to the Bench.
+Asekuro's Murkrow used Spin Turn on golemeee’s Manaphy for 10 damage.
+- Asekuro's Wattrel was switched with Asekuro's Murkrow to become the Active Pokémon.
+Asekuro's Wattrel is now in the Active Spot.
+
+Turn # 2 - golemeee's Turn
+golemeee drew Basic Fire Energy.
+golemeee played Nest Ball.
+- golemeee drew Bidoof and played it to the Bench.
+- golemeee shuffled their deck.
+golemeee ended their turn.
+
+Turn # 3 - Asekuro's Turn
+Asekuro drew a card.
+Asekuro evolved Wattrel to Kilowattrel in the Active Spot.
+Asekuro played Flamigo to the Bench.
+Asekuro's Flamigo used Insta-Flock.
+- Asekuro drew 3 cards.
+   • Flamigo, Flamigo, Flamigo
+- Asekuro shuffled their deck.
+Asekuro played Professor's Research.
+- Asekuro discarded 3 cards.
+   • Flamigo, Flamigo, Flamigo
+- Asekuro drew 7 cards.
+Asekuro played Trekking Shoes.
+- Asekuro drew a card.
+Asekuro played Ditto to the Bench.
+Asekuro played Purrloin to the Bench.
+Asekuro attached Basic Darkness Energy to Kilowattrel in the Active Spot.
+Asekuro's Kilowattrel used United Thunder.
+golemeee's Bidoof used Carefree Countenance.
+- Damage to Bidoof was prevented.
+
+Turn # 3 - golemeee's Turn
+golemeee drew Vitality Band.
+golemeee evolved Bidoof to Bibarel on the Bench.
+golemeee attached Basic Fire Energy to Manaphy in the Active Spot.
+golemeee's Bibarel used Industrious Incisors.
+- golemeee drew 2 cards.
+   • Radiant Charizard, Rare Candy
+golemeee played Radiant Charizard to the Bench.
+golemeee attached Vitality Band to Radiant Charizard on the Bench.
+golemeee ended their turn.
+
+Turn # 4 - Asekuro's Turn
+Asekuro drew a card.
+Asekuro played Bill's Transfer.
+- Asekuro drew Murkrow.
+- Asekuro shuffled their deck.
+Asekuro played Great Ball.
+- Asekuro drew Liepard.
+- Asekuro shuffled their deck.
+Asekuro evolved Purrloin to Liepard on the Bench.
+Asekuro's Liepard used Trade.
+- Asekuro discarded Murkrow.
+- Asekuro drew 2 cards.
+Asekuro retreated Kilowattrel to the Bench.
+Asekuro's Murkrow is now in the Active Spot.
+Asekuro's Murkrow used United Wings on golemeee’s Manaphy for 80 damage.
+golemeee's Manaphy was Knocked Out!
+Basic Fire Energy was discarded from golemeee's Manaphy.
+golemeee's Radiant Charizard is now in the Active Spot.
+Asekuro took a Prize card.
+A card was added to Asekuro's hand.
+
+Turn # 4 - golemeee's Turn
+golemeee drew Ciphermaniac's Codebreaking.
+golemeee played Ciphermaniac's Codebreaking.
+- golemeee shuffled their deck.
+golemeee's Bibarel used Industrious Incisors.
+- golemeee drew 2 cards.
+   • Charmander, Charizard ex
+golemeee played Charmander to the Bench.
+golemeee ended their turn.
+
+Turn # 5 - Asekuro's Turn
+Asekuro drew a card.
+Asekuro's Liepard used Trade.
+- Asekuro discarded Wattrel.
+- Asekuro drew 2 cards.
+Asekuro played Clavell.
+- Asekuro drew 3 cards.
+   • Murkrow, Wattrel, Ditto
+- Asekuro shuffled their deck.
+Asekuro attached Basic Darkness Energy to Ditto on the Bench.
+Asekuro played Trekking Shoes.
+- Asekuro drew a card.
+Asekuro's Murkrow used United Wings on golemeee’s Radiant Charizard for 100 damage.
+
+Turn # 5 - golemeee's Turn
+golemeee drew Iono.
+golemeee played Rare Candy.
+- golemeee evolved Charmander to Charizard ex on the Bench.
+golemeee's Charizard ex used Infernal Reign.
+- golemeee attached Basic Fire Energy to Charizard ex on the Bench.
+- golemeee attached Basic Fire Energy to Charizard ex on the Bench.
+golemeee played Switch.
+- golemeee's Charizard ex was switched with golemeee's Radiant Charizard to become the Active Pokémon.
+golemeee's Charizard ex is now in the Active Spot.
+golemeee's Bibarel used Industrious Incisors.
+- golemeee drew 3 cards.
+   • Basic Fire Energy, Buddy-Buddy Poffin, Iono
+golemeee played Buddy-Buddy Poffin.
+- golemeee drew 2 cards and played them to the Bench.
+   • Bidoof, Charmander
+- golemeee shuffled their deck.
+golemeee played Iono.
+- golemeee shuffled their hand.
+- golemeee put 3 cards on the bottom of their deck.
+   • Iono, Basic Fire Energy, Basic Fire Energy
+- Asekuro shuffled their hand.
+- Asekuro put 9 cards on the bottom of their deck.
+- golemeee drew 6 cards.
+   • Rare Candy, Hisuian Heavy Ball, Rare Candy, Arven, Technical Machine: Evolution, Buddy-Buddy Poffin
+- Asekuro drew 5 cards.
+golemeee played Hisuian Heavy Ball.
+- golemeee moved golemeee's Skwovet to their hand.
+- golemeee moved golemeee's Hisuian Heavy Ball to the Prize cards.
+- golemeee shuffled their Prize cards.
+golemeee played Skwovet to the Bench.
+golemeee attached Technical Machine: Evolution to Charizard ex in the Active Spot.
+golemeee's Charizard ex used Burning Darkness on Asekuro’s Murkrow for 210 damage.
+Asekuro's Murkrow was Knocked Out!
+Basic Darkness Energy was discarded from Asekuro's Murkrow.
+Asekuro's Ditto is now in the Active Spot.
+golemeee took a Prize card.
+Arven was added to golemeee's hand.
+Technical Machine: Evolution was activated.
+- Technical Machine: Evolution was discarded from golemeee's Charizard ex.
+
+Turn # 6 - Asekuro's Turn
+Asekuro drew a card.
+Asekuro's Liepard used Trade.
+- Asekuro discarded Kilowattrel.
+- Asekuro drew 2 cards.
+Asekuro attached Basic Darkness Energy to Ditto on the Bench.
+Asekuro's Ditto used United Wings on golemeee’s Charizard ex for 120 damage.
+
+Turn # 6 - golemeee's Turn
+golemeee drew Basic Fire Energy.
+golemeee's Skwovet used Nest Stash.
+- golemeee shuffled their hand.
+- golemeee put 6 cards on the bottom of their deck.
+   • Arven, Rare Candy, Arven, Basic Fire Energy, Rare Candy, Buddy-Buddy Poffin
+- golemeee drew Iono.
+golemeee's Bibarel used Industrious Incisors.
+- golemeee drew 4 cards.
+   • Boss's Orders, Charmeleon, Arven, Super Rod
+golemeee evolved Charmander to Charmeleon on the Bench.
+golemeee played Iono.
+- golemeee shuffled their hand.
+- golemeee put 3 cards on the bottom of their deck.
+   • Arven, Boss's Orders, Super Rod
+- Asekuro shuffled their hand.
+- Asekuro put 6 cards on the bottom of their deck.
+- golemeee drew 5 cards.
+   • Super Rod, Ultra Ball, Arven, Ultra Ball, Ultra Ball
+- Asekuro drew 5 cards.
+golemeee's Charizard ex used Burning Darkness on Asekuro’s Ditto for 210 damage.
+Asekuro's Ditto was Knocked Out!
+Basic Darkness Energy was discarded from Asekuro's Ditto.
+Asekuro's Kilowattrel is now in the Active Spot.
+golemeee took a Prize card.
+Charmander was added to golemeee's hand.
+
+Turn # 7 - Asekuro's Turn
+Asekuro drew a card.
+Asekuro played Nest Ball.
+- Asekuro drew Murkrow and played it to the Bench.
+- Asekuro shuffled their deck.
+Asekuro attached Basic Lightning Energy to Flamigo on the Bench.
+Asekuro played Great Ball.
+- Asekuro drew Wattrel.
+- Asekuro shuffled their deck.
+Asekuro's Liepard used Trade.
+- Asekuro discarded Wattrel.
+- Asekuro drew 2 cards.
+Asekuro's Kilowattrel used United Thunder.
+- golemeee's Radiant Charizard took 70 damage.
+golemeee's Radiant Charizard was Knocked Out!
+Vitality Band was discarded from golemeee's Radiant Charizard.
+Asekuro took a Prize card.
+A card was added to Asekuro's hand.
+
+Turn # 7 - golemeee's Turn
+golemeee drew Bibarel.
+golemeee evolved Bidoof to Bibarel on the Bench.
+golemeee played Charmander to the Bench.
+golemeee played Arven.
+- golemeee drew Rare Candy.
+- golemeee shuffled their deck.
+golemeee played Ultra Ball.
+- golemeee discarded 2 cards.
+   • Ultra Ball, Ultra Ball
+- golemeee drew Charizard ex.
+- golemeee shuffled their deck.
+golemeee's Bibarel used Industrious Incisors.
+- golemeee drew 2 cards.
+   • Arven, Charizard ex
+golemeee's Skwovet used Nest Stash.
+- golemeee shuffled their hand.
+- golemeee put 5 cards on the bottom of their deck.
+   • Rare Candy, Charizard ex, Super Rod, Arven, Charizard ex
+- golemeee drew Charmeleon.
+golemeee's Bibarel used Industrious Incisors.
+- golemeee drew 4 cards.
+   • Lost Vacuum, Arven, Arven, Buddy-Buddy Poffin
+golemeee's Charizard ex used Burning Darkness on Asekuro’s Kilowattrel for 240 damage.
+Asekuro's Kilowattrel was Knocked Out!
+- 2 cards were discarded from Asekuro's Kilowattrel.
+   • Basic Darkness Energy, Wattrel
+Asekuro's Flamigo is now in the Active Spot.
+golemeee took a Prize card.
+Basic Fire Energy was added to golemeee's hand.
+
+Turn # 8 - Asekuro's Turn
+Asekuro drew a card.
+Asekuro's Liepard used Trade.
+- Asekuro discarded Murkrow.
+- Asekuro drew 2 cards.
+Asekuro attached Basic Lightning Energy to Flamigo in the Active Spot.
+Asekuro attached Technical Machine: Devolution to Flamigo in the Active Spot.
+Asekuro's Flamigo used Devolution.
+- Asekuro devolved golemeee's Bibarel to Bidoof on the Bench.
+- golemeee moved golemeee's Bibarel to their hand.
+- Asekuro devolved golemeee's Charmeleon to Charmander on the Bench.
+- golemeee moved golemeee's Charmeleon to their hand.
+- Asekuro devolved golemeee's Bibarel to Bidoof on the Bench.
+- golemeee moved golemeee's Bibarel to their hand.
+- Asekuro devolved golemeee's Charizard ex to Charmander in the Active Spot.
+- golemeee moved golemeee's Charizard ex to their hand.
+- 3 cards were discarded from golemeee's Charizard ex.
+   • Charmander, Basic Fire Energy, Basic Fire Energy
+golemeee's Charmander is now in the Active Spot.
+Asekuro took a Prize card.
+A card was added to Asekuro's hand.
+Technical Machine: Devolution was activated.
+- Technical Machine: Devolution was discarded from Asekuro's Flamigo.
+
+Turn # 8 - golemeee's Turn
+golemeee drew Buddy-Buddy Poffin.
+golemeee evolved Bidoof to Bibarel on the Bench.
+golemeee evolved Bidoof to Bibarel on the Bench.
+golemeee played Arven.
+- golemeee drew Rare Candy.
+- golemeee shuffled their deck.
+golemeee played Rare Candy.
+- golemeee evolved Charmander to Charizard ex in the Active Spot.
+golemeee's Charizard ex used Infernal Reign.
+- golemeee attached Basic Fire Energy to Charizard ex in the Active Spot.
+- golemeee attached Basic Fire Energy to Charizard ex in the Active Spot.
+golemeee evolved Charmander to Charmeleon on the Bench.
+golemeee attached Basic Fire Energy to Charmeleon on the Bench.
+golemeee's Skwovet used Nest Stash.
+- golemeee shuffled their hand.
+- golemeee put 5 cards on the bottom of their deck.
+   • Charmeleon, Buddy-Buddy Poffin, Buddy-Buddy Poffin, Lost Vacuum, Arven
+- golemeee drew Charizard ex.
+golemeee's Bibarel used Industrious Incisors.
+- golemeee drew 4 cards.
+   • Super Rod, Rare Candy, Iono, Ciphermaniac's Codebreaking
+golemeee's Charizard ex used Burning Darkness on Asekuro’s Flamigo for 270 damage.
+Asekuro's Flamigo was Knocked Out!
+- 2 cards were discarded from Asekuro's Flamigo.
+   • Basic Lightning Energy, Basic Lightning Energy
+Asekuro's Ditto is now in the Active Spot.
+golemeee took a Prize card.
+Charmander was added to golemeee's hand.
+
+Turn # 9 - Asekuro's Turn
+Asekuro drew a card.
+Asekuro attached Basic Darkness Energy to Murkrow on the Bench.
+Asekuro's Liepard used Trade.
+- Asekuro discarded Ultra Ball.
+- Asekuro drew 2 cards.
+Asekuro played Trekking Shoes.
+- Asekuro moved Asekuro's Pokémon Catcher to the discard pile.
+- Asekuro drew a card.
+Asekuro played Ultra Ball.
+- Asekuro discarded 2 cards.
+   • Superior Energy Retrieval, Basic Darkness Energy
+- Asekuro drew Ditto.
+- Asekuro shuffled their deck.
+Asekuro played Ditto to the Bench.
+Asekuro's Ditto used United Wings on golemeee’s Charizard ex for 200 damage.
+
+Turn # 9 - golemeee's Turn
+golemeee drew Iono.
+golemeee evolved Charmeleon to Charizard ex on the Bench.
+golemeee's Charizard ex used Infernal Reign.
+- golemeee attached Basic Fire Energy to Bibarel on the Bench.
+- golemeee attached Basic Fire Energy to Charizard ex on the Bench.
+golemeee played Iono.
+- golemeee shuffled their hand.
+- golemeee put 5 cards on the bottom of their deck.
+   • Rare Candy, Charmander, Ciphermaniac's Codebreaking, Super Rod, Iono
+- Asekuro shuffled their hand.
+- Asekuro put 5 cards on the bottom of their deck.
+- golemeee drew 2 cards.
+   • Ultra Ball, Arven
+- Asekuro drew 3 cards.
+golemeee's Bibarel used Industrious Incisors.
+- golemeee drew 3 cards.
+   • Boss's Orders, Buddy-Buddy Poffin, Super Rod
+golemeee played Super Rod.
+- golemeee shuffled 3 cards into their deck.
+   • Basic Fire Energy, Basic Fire Energy, Basic Fire Energy
+golemeee's Charizard ex used Burning Darkness on Asekuro’s Ditto for 270 damage.
+Asekuro's Ditto was Knocked Out!
+Basic Darkness Energy was discarded from Asekuro's Ditto.
+Asekuro's Murkrow is now in the Active Spot.
+golemeee took a Prize card.
+Hisuian Heavy Ball was added to golemeee's hand.
+
+Turn # 10 - Asekuro's Turn
+Asekuro drew a card.
+Asekuro's Liepard used Trade.
+- Asekuro discarded Purrloin.
+- Asekuro drew 2 cards.
+Asekuro attached Basic Darkness Energy to Ditto on the Bench.
+Asekuro played Ryme.
+- Asekuro drew 3 cards.
+- golemeee's Charizard ex was switched with golemeee's Charizard ex to become the Active Pokémon.
+golemeee's Charizard ex is now in the Active Spot.
+Asekuro's Murkrow used United Wings on golemeee’s Charizard ex for 200 damage.
+
+Turn # 10 - golemeee's Turn
+golemeee drew Arven.
+golemeee's Charizard ex used Burning Darkness on Asekuro’s Murkrow for 270 damage.
+Asekuro's Murkrow was Knocked Out!
+Basic Darkness Energy was discarded from Asekuro's Murkrow.
+golemeee took a Prize card.
+Bidoof was added to golemeee's hand.
+All Prize cards taken. golemeee wins.
+

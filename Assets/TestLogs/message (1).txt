@@ -1,0 +1,280 @@
+Setup
+notsteven13 chose tails for the opening coin flip.
+Ziryx34 won the coin toss.
+Ziryx34 decided to go first.
+notsteven13 drew 7 cards for the opening hand.
+- 7 drawn cards.
+   • Grotle, Earthen Vessel, Turtwig, Basic Grass Energy, Basic Grass Energy, Arven, Basic Grass Energy
+Ziryx34 drew 7 cards for the opening hand.
+- 7 drawn cards.
+notsteven13 played Turtwig to the Active Spot.
+Ziryx34 played Charmander to the Active Spot.
+
+Turn # 1 - Ziryx34's Turn
+Ziryx34 drew a card.
+Ziryx34 played Pidgey to the Bench.
+Ziryx34 played Buddy-Buddy Poffin.
+- Ziryx34 drew 2 cards and played them to the Bench.
+   • Charmander, Charmander
+- Ziryx34 shuffled their deck.
+Ziryx34 attached Technical Machine: Evolution to Charmander in the Active Spot.
+Ziryx34 attached Basic Fire Energy to Charmander in the Active Spot.
+Ziryx34 ended their turn.
+Technical Machine: Evolution was activated.
+- Technical Machine: Evolution was discarded from Ziryx34's Charmander.
+
+Turn # 1 - notsteven13's Turn
+notsteven13 drew Toedscool.
+notsteven13 played Arven.
+- notsteven13 drew 2 cards.
+   • Buddy-Buddy Poffin, Technical Machine: Evolution
+- notsteven13 shuffled their deck.
+notsteven13 played Buddy-Buddy Poffin.
+- notsteven13 drew 2 cards and played them to the Bench.
+   • Toedscool, Cottonee
+- notsteven13 shuffled their deck.
+notsteven13 played Toedscool to the Bench.
+notsteven13 attached Technical Machine: Evolution to Turtwig in the Active Spot.
+notsteven13 attached Basic Grass Energy to Turtwig in the Active Spot.
+notsteven13's Turtwig used Evolution.
+- notsteven13 evolved Toedscool to Toedscruel on the Bench.
+- notsteven13 evolved Toedscool to Toedscruel ex on the Bench.
+- notsteven13 shuffled their deck.
+Technical Machine: Evolution was activated.
+- Technical Machine: Evolution was discarded from notsteven13's Turtwig.
+
+Turn # 2 - Ziryx34's Turn
+Ziryx34 drew a card.
+Ziryx34 evolved Charmander to Charmeleon in the Active Spot.
+Ziryx34 attached Basic Fire Energy to Charmeleon in the Active Spot.
+Ziryx34 played Manaphy to the Bench.
+Ziryx34's Charmeleon used Combustion on notsteven13’s Turtwig for 80 damage. notsteven13's Turtwig took 50 more damage because of Fire Weakness.
+notsteven13's Turtwig was Knocked Out!
+Basic Grass Energy was discarded from notsteven13's Turtwig.
+notsteven13's Cottonee is now in the Active Spot.
+Ziryx34 took a Prize card.
+A card was added to Ziryx34's hand.
+
+Turn # 2 - notsteven13's Turn
+notsteven13 drew Turtwig.
+notsteven13 played Turtwig to the Bench.
+notsteven13 ended their turn.
+
+Turn # 3 - Ziryx34's Turn
+Ziryx34 drew a card.
+Ziryx34 attached Basic Fire Energy to Charmander on the Bench.
+Ziryx34's Charmeleon used Combustion on notsteven13’s Cottonee for 100 damage. notsteven13's Cottonee took 50 more damage because of Fire Weakness.
+notsteven13's Cottonee was Knocked Out!
+notsteven13's Toedscruel is now in the Active Spot.
+Ziryx34 took a Prize card.
+A card was added to Ziryx34's hand.
+
+Turn # 3 - notsteven13's Turn
+notsteven13 drew Basic Grass Energy.
+notsteven13 evolved Turtwig to Grotle on the Bench.
+notsteven13's Grotle used Sun-Drenched Shell.
+- notsteven13 drew Turtwig.
+- notsteven13 shuffled their deck.
+notsteven13 played Turtwig to the Bench.
+notsteven13 ended their turn.
+
+Turn # 4 - Ziryx34's Turn
+Ziryx34 drew a card.
+Ziryx34 played Rare Candy.
+- Ziryx34 evolved Charmander to Charizard ex on the Bench.
+Ziryx34's Charizard ex used Infernal Reign.
+- Ziryx34 attached Basic Fire Energy to Charmander on the Bench.
+- Ziryx34 attached Basic Fire Energy to Charizard ex on the Bench.
+- Ziryx34 attached Basic Fire Energy to Charmeleon in the Active Spot.
+Ziryx34's Charmeleon used Combustion on notsteven13’s Toedscruel for 100 damage. notsteven13's Toedscruel took 50 more damage because of Fire Weakness.
+
+Turn # 4 - notsteven13's Turn
+notsteven13 drew Nest Ball.
+notsteven13 played Nest Ball.
+- notsteven13 drew Turtwig and played it to the Bench.
+- notsteven13 shuffled their deck.
+notsteven13's Grotle used Sun-Drenched Shell.
+- notsteven13 drew Grotle.
+- notsteven13 shuffled their deck.
+notsteven13 evolved Turtwig to Grotle on the Bench.
+notsteven13's Grotle used Sun-Drenched Shell.
+- notsteven13 drew Cottonee.
+- notsteven13 shuffled their deck.
+notsteven13 played Cottonee to the Bench.
+notsteven13 ended their turn.
+
+Turn # 5 - Ziryx34's Turn
+Ziryx34 drew a card.
+Ziryx34's Charmeleon used Combustion on notsteven13’s Toedscruel for 100 damage. notsteven13's Toedscruel took 50 more damage because of Fire Weakness.
+notsteven13's Toedscruel was Knocked Out!
+Toedscool was discarded from notsteven13's Toedscruel.
+notsteven13's Grotle is now in the Active Spot.
+Ziryx34 took a Prize card.
+A card was added to Ziryx34's hand.
+
+Turn # 5 - notsteven13's Turn
+notsteven13 drew Torterra.
+notsteven13's Grotle used Sun-Drenched Shell.
+- notsteven13 drew Torterra ex.
+- notsteven13 shuffled their deck.
+notsteven13's Grotle used Sun-Drenched Shell.
+- notsteven13 drew Grotle.
+- notsteven13 shuffled their deck.
+notsteven13 evolved Turtwig to Grotle on the Bench.
+notsteven13 evolved Grotle to Torterra ex in the Active Spot.
+notsteven13 attached Basic Grass Energy to Torterra ex in the Active Spot.
+notsteven13's Torterra ex used Forest March on Ziryx34’s Charmeleon for 150 damage.
+Ziryx34's Charmeleon was Knocked Out!
+- 4 cards were discarded from Ziryx34's Charmeleon.
+   • Basic Fire Energy, Basic Fire Energy, Basic Fire Energy, Charmander
+Ziryx34's Charizard ex is now in the Active Spot.
+notsteven13 took a Prize card.
+Switch was added to notsteven13's hand.
+
+Turn # 6 - Ziryx34's Turn
+Ziryx34 drew a card.
+Ziryx34 played Iono.
+- Ziryx34 shuffled their hand.
+- Ziryx34 put 4 cards on the bottom of their deck.
+- notsteven13 shuffled their hand.
+- notsteven13 put 5 cards on the bottom of their deck.
+   • Torterra, Earthen Vessel, Basic Grass Energy, Switch, Basic Grass Energy
+- Ziryx34 drew 3 cards.
+- notsteven13 drew 5 cards.
+   • Professor Turo's Scenario, Gardenia's Vigor, Arven, Iono, Super Rod
+Ziryx34 attached Technical Machine: Evolution to Charmander on the Bench.
+Ziryx34 played Radiant Charizard to the Bench.
+Ziryx34's Charizard ex used Burning Darkness on notsteven13’s Torterra ex for 210 damage.
+Technical Machine: Evolution was activated.
+- Technical Machine: Evolution was discarded from Ziryx34's Charmander.
+
+Turn # 6 - notsteven13's Turn
+notsteven13 drew Nest Ball.
+notsteven13 played Super Rod.
+- notsteven13 shuffled 2 cards into their deck.
+   • Cottonee, Turtwig
+- notsteven13 put Basic Grass Energy on top of their deck.
+notsteven13's Grotle used Sun-Drenched Shell.
+- notsteven13 drew Whimsicott.
+- notsteven13 shuffled their deck.
+notsteven13 played Arven.
+- notsteven13 drew Earthen Vessel.
+- notsteven13 shuffled their deck.
+notsteven13 played Earthen Vessel.
+- notsteven13 discarded Professor Turo's Scenario.
+- notsteven13 drew 2 cards.
+   • Basic Grass Energy, Basic Grass Energy
+- notsteven13 shuffled their deck.
+notsteven13's Grotle used Sun-Drenched Shell.
+- notsteven13 drew Turtwig.
+- notsteven13 shuffled their deck.
+notsteven13 played Nest Ball.
+- notsteven13 drew Cottonee and played it to the Bench.
+- notsteven13 shuffled their deck.
+notsteven13 evolved Cottonee to Whimsicott on the Bench.
+notsteven13's Whimsicott used Wafting Heal.
+- notsteven13's Torterra ex healed 210 damage.
+- Basic Grass Energy was discarded from notsteven13's Torterra ex.
+notsteven13 attached Basic Grass Energy to Torterra ex in the Active Spot.
+notsteven13's Torterra ex used Forest March on Ziryx34’s Charizard ex for 360 damage. Ziryx34's Charizard ex took 180 more damage because of Grass Weakness.
+Ziryx34's Charizard ex was Knocked Out!
+- 3 cards were discarded from Ziryx34's Charizard ex.
+   • Basic Fire Energy, Basic Fire Energy, Charmander
+Ziryx34's Radiant Charizard is now in the Active Spot.
+notsteven13 took 2 Prize cards.
+Grotle was added to notsteven13's hand.
+Boss's Orders was added to notsteven13's hand.
+
+Turn # 7 - Ziryx34's Turn
+Ziryx34 drew a card.
+Ziryx34 attached Basic Fire Energy to Radiant Charizard in the Active Spot.
+Ziryx34 ended their turn.
+
+Turn # 7 - notsteven13's Turn
+notsteven13 drew Switch.
+notsteven13 played Iono.
+- notsteven13 shuffled their hand.
+- notsteven13 put 6 cards on the bottom of their deck.
+   • Grotle, Gardenia's Vigor, Turtwig, Switch, Boss's Orders, Basic Grass Energy
+- Ziryx34 shuffled their hand.
+- Ziryx34 put a card on the bottom of their deck.
+- notsteven13 drew 3 cards.
+   • Artazon, Nest Ball, Counter Catcher
+- Ziryx34 drew 3 cards.
+notsteven13 played Artazon to the Stadium spot.
+notsteven13's Torterra ex used Forest March on Ziryx34’s Radiant Charizard for 180 damage.
+Ziryx34's Radiant Charizard was Knocked Out!
+Basic Fire Energy was discarded from Ziryx34's Radiant Charizard.
+Ziryx34's Charmander is now in the Active Spot.
+notsteven13 took a Prize card.
+Earthen Vessel was added to notsteven13's hand.
+
+Turn # 8 - Ziryx34's Turn
+Ziryx34 drew a card.
+Ziryx34 played Artazon.
+- Ziryx34 drew Moltres and played it to the Bench.
+- Ziryx34 shuffled their deck.
+Ziryx34 evolved Pidgey to Pidgeotto on the Bench.
+Ziryx34 played Boss's Orders.
+- notsteven13's Whimsicott was switched with notsteven13's Torterra ex to become the Active Pokémon.
+notsteven13's Whimsicott is now in the Active Spot.
+Ziryx34 attached Technical Machine: Evolution to Charmander in the Active Spot.
+Ziryx34's Charmander used Blazing Destruction.
+- notsteven13 discarded Artazon.
+Technical Machine: Evolution was activated.
+- Technical Machine: Evolution was discarded from Ziryx34's Charmander.
+
+Turn # 8 - notsteven13's Turn
+notsteven13 drew Boss's Orders.
+notsteven13 played Earthen Vessel.
+- notsteven13 discarded Nest Ball.
+- notsteven13 drew Basic Grass Energy.
+- notsteven13 drew Basic Grass Energy.
+- notsteven13 shuffled their deck.
+notsteven13 attached Basic Grass Energy to Whimsicott in the Active Spot.
+notsteven13 retreated Whimsicott to the Bench.
+- Basic Grass Energy was discarded from notsteven13's Whimsicott.
+notsteven13's Torterra ex is now in the Active Spot.
+notsteven13's Torterra ex used Forest March on Ziryx34’s Charmander for 180 damage.
+Ziryx34's Charmander was Knocked Out!
+Basic Fire Energy was discarded from Ziryx34's Charmander.
+Ziryx34's Moltres is now in the Active Spot.
+notsteven13 took a Prize card.
+Basic Grass Energy was added to notsteven13's hand.
+
+Turn # 9 - Ziryx34's Turn
+Ziryx34 drew a card.
+Ziryx34 played Professor's Research.
+- Ziryx34 discarded Charizard ex.
+- Ziryx34 drew 7 cards.
+Ziryx34 ended their turn.
+
+Turn # 9 - notsteven13's Turn
+notsteven13 drew Turtwig.
+notsteven13 ended their turn.
+
+Turn # 10 - Ziryx34's Turn
+Ziryx34 drew a card.
+Ziryx34 played Buddy-Buddy Poffin.
+- Ziryx34 drew Charmander and played it to the Bench.
+- Ziryx34 shuffled their deck.
+Ziryx34 attached Defiance Band to Charmander on the Bench.
+Ziryx34 played Ultra Ball.
+- Ziryx34 discarded 2 cards.
+   • Pidgeotto, Rare Candy
+- Ziryx34 drew Charmeleon.
+- Ziryx34 shuffled their deck.
+Ziryx34 ended their turn.
+
+Turn # 10 - notsteven13's Turn
+notsteven13 drew Torterra.
+notsteven13 played Boss's Orders.
+- Ziryx34's Charmander was switched with Ziryx34's Moltres to become the Active Pokémon.
+Ziryx34's Charmander is now in the Active Spot.
+notsteven13's Torterra ex used Forest March on Ziryx34’s Charmander for 180 damage.
+Ziryx34's Charmander was Knocked Out!
+Defiance Band was discarded from Ziryx34's Charmander.
+notsteven13 took a Prize card.
+Basic Grass Energy was added to notsteven13's hand.
+All Prize cards taken. notsteven13 wins.
+

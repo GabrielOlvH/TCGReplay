@@ -1,0 +1,254 @@
+Setup
+Leosho chose tails for the opening coin flip.
+golemeee won the coin toss.
+Leosho decided to go second.
+Leosho drew 7 cards for the opening hand.
+- 7 drawn cards.
+golemeee drew 7 cards for the opening hand.
+- 7 drawn cards.
+   • Bidoof, Buddy-Buddy Poffin, Basic Water Energy, Basic Water Energy, Iron Hands ex, Bibarel, Buddy-Buddy Poffin
+Leosho played Regieleki V to the Active Spot.
+Leosho played Raikou V to the Bench.
+Leosho played Miraidon ex to the Bench.
+golemeee played Bidoof to the Active Spot.
+
+Turn # 1 - golemeee's Turn
+golemeee drew Ciphermaniac's Codebreaking.
+golemeee played Buddy-Buddy Poffin.
+- golemeee drew 2 cards and played them to the Bench.
+   • Bidoof, Frigibax
+- golemeee shuffled their deck.
+golemeee played Buddy-Buddy Poffin.
+- golemeee drew Frigibax and played it to the Bench.
+- golemeee shuffled their deck.
+golemeee ended their turn.
+
+Turn # 1 - Leosho's Turn
+Leosho drew a card.
+Leosho's Miraidon ex used Tandem Unit.
+- Leosho drew 2 cards and played them to the Bench.
+   • Regieleki V, Iron Hands ex
+- Leosho shuffled their deck.
+Leosho attached Basic Lightning Energy to Regieleki V in the Active Spot.
+Leosho played Electric Generator.
+- Leosho shuffled their deck.
+Leosho's Regieleki V used Switching Bolt on golemeee’s Bidoof for 30 damage.
+- Leosho's Regieleki V was switched with Leosho's Regieleki V to become the Active Pokémon.
+Leosho's Regieleki V is now in the Active Spot.
+
+Turn # 2 - golemeee's Turn
+golemeee drew Radiant Greninja.
+golemeee played Radiant Greninja to the Bench.
+golemeee evolved Bidoof to Bibarel on the Bench.
+golemeee played Ciphermaniac's Codebreaking.
+- golemeee shuffled their deck.
+golemeee's Radiant Greninja used Concealed Cards.
+- golemeee discarded Basic Water Energy.
+- golemeee drew 2 cards.
+   • Rare Candy, Baxcalibur
+golemeee played Rare Candy.
+- golemeee evolved Frigibax to Baxcalibur on the Bench.
+golemeee's Bibarel used Industrious Incisors.
+- golemeee drew 3 cards.
+   • Basic Water Energy, Super Rod, Ciphermaniac's Codebreaking
+golemeee ended their turn.
+
+Turn # 2 - Leosho's Turn
+Leosho drew a card.
+Leosho's Miraidon ex used Tandem Unit.
+- Leosho drew Regieleki V and played it to the Bench.
+- Leosho shuffled their deck.
+Leosho played Jacq.
+- Leosho drew 2 cards.
+   • Regieleki VMAX, Regieleki VMAX
+- Leosho shuffled their deck.
+Leosho evolved Regieleki V to Regieleki VMAX on the Bench.
+Leosho evolved Regieleki V to Regieleki VMAX in the Active Spot.
+Leosho attached Basic Lightning Energy to Regieleki V on the Bench.
+Leosho retreated Regieleki VMAX to the Bench.
+Leosho's Regieleki V is now in the Active Spot.
+Leosho's Regieleki V used Switching Bolt on golemeee’s Bidoof for 90 damage.
+- Leosho's Regieleki VMAX was switched with Leosho's Regieleki V to become the Active Pokémon.
+Leosho's Regieleki VMAX is now in the Active Spot.
+golemeee's Bidoof was Knocked Out!
+golemeee's Radiant Greninja is now in the Active Spot.
+Leosho took a Prize card.
+A card was added to Leosho's hand.
+
+Turn # 3 - golemeee's Turn
+golemeee drew Basic Water Energy.
+golemeee played Ciphermaniac's Codebreaking.
+- golemeee shuffled their deck.
+golemeee's Radiant Greninja used Concealed Cards.
+- golemeee discarded Basic Water Energy.
+- golemeee drew 2 cards.
+   • Chien-Pao ex, Earthen Vessel
+golemeee played Chien-Pao ex to the Bench.
+golemeee attached Basic Water Energy to Radiant Greninja in the Active Spot.
+golemeee retreated Radiant Greninja to the Bench.
+- Basic Water Energy was discarded from golemeee's Radiant Greninja.
+golemeee's Chien-Pao ex is now in the Active Spot.
+golemeee's Chien-Pao ex used Shivery Chill.
+- golemeee drew 2 cards.
+   • Basic Water Energy, Basic Water Energy
+- golemeee shuffled their deck.
+golemeee played Earthen Vessel.
+- golemeee discarded Iron Hands ex.
+- golemeee drew 2 cards.
+   • Basic Water Energy, Basic Water Energy
+- golemeee shuffled their deck.
+golemeee's Baxcalibur used Super Cold.
+- golemeee attached Basic Water Energy to Chien-Pao ex in the Active Spot.
+- golemeee attached Basic Water Energy to Chien-Pao ex in the Active Spot.
+- golemeee attached Basic Water Energy to Chien-Pao ex in the Active Spot.
+- golemeee attached Basic Water Energy to Chien-Pao ex in the Active Spot.
+- golemeee attached Basic Water Energy to Chien-Pao ex in the Active Spot.
+golemeee played Super Rod.
+- golemeee shuffled 2 cards into their deck.
+   • Basic Water Energy, Basic Water Energy
+- golemeee put Basic Water Energy on top of their deck.
+golemeee's Bibarel used Industrious Incisors.
+- golemeee drew Basic Water Energy.
+- golemeee drew 4 cards.
+   • Ultra Ball, Basic Water Energy, PokéStop, Canceling Cologne
+golemeee's Baxcalibur used Super Cold.
+- golemeee attached Basic Water Energy to Radiant Greninja on the Bench.
+- golemeee attached Basic Water Energy to Chien-Pao ex in the Active Spot.
+golemeee played PokéStop to the Stadium spot.
+golemeee played PokéStop.
+- golemeee moved golemeee's 3 cards to the discard pile.
+   • Iron Bundle, Irida, Chien-Pao ex
+golemeee's Chien-Pao ex used Hail Blade on Leosho’s Regieleki VMAX for 360 damage.
+- 5 cards were discarded from golemeee's Chien-Pao ex.
+   • Basic Water Energy, Basic Water Energy, Basic Water Energy, Basic Water Energy, Basic Water Energy
+- Basic Water Energy was discarded from golemeee's Radiant Greninja.
+Leosho's Regieleki VMAX was Knocked Out!
+Regieleki V was discarded from Leosho's Regieleki VMAX.
+Leosho's Miraidon ex is now in the Active Spot.
+golemeee took 3 Prize cards.
+Prime Catcher was added to golemeee's hand.
+Frigibax was added to golemeee's hand.
+Irida was added to golemeee's hand.
+
+Turn # 3 - Leosho's Turn
+Leosho drew a card.
+Leosho's Miraidon ex used Tandem Unit.
+- Leosho drew Regieleki V and played it to the Bench.
+- Leosho shuffled their deck.
+Leosho attached Basic Lightning Energy to Regieleki VMAX on the Bench.
+Leosho played Switch Cart.
+- Leosho's Regieleki V was switched with Leosho's Miraidon ex to become the Active Pokémon.
+Leosho's Regieleki V is now in the Active Spot.
+Leosho played Boss's Orders.
+- golemeee's Radiant Greninja was switched with golemeee's Chien-Pao ex to become the Active Pokémon.
+golemeee's Radiant Greninja is now in the Active Spot.
+Leosho's Regieleki V used Switching Bolt on golemeee’s Radiant Greninja for 120 damage. golemeee's Radiant Greninja took 60 more damage because of Lightning Weakness.
+- Leosho's Regieleki V was switched with Leosho's Regieleki V to become the Active Pokémon.
+Leosho's Regieleki V is now in the Active Spot.
+
+Turn # 4 - golemeee's Turn
+golemeee drew Buddy-Buddy Poffin.
+golemeee played Prime Catcher.
+- Leosho's Iron Hands ex was switched with Leosho's Regieleki V to become the Active Pokémon.
+- golemeee's Chien-Pao ex was switched with golemeee's Radiant Greninja to become the Active Pokémon.
+Leosho's Iron Hands ex is now in the Active Spot.
+golemeee's Chien-Pao ex is now in the Active Spot.
+golemeee played Irida.
+- golemeee drew 2 cards.
+   • Chien-Pao ex, Superior Energy Retrieval
+- golemeee shuffled their deck.
+golemeee played Superior Energy Retrieval.
+- golemeee discarded 2 cards.
+   • Canceling Cologne, Frigibax
+- golemeee moved golemeee's 4 cards to their hand.
+   • Basic Water Energy, Basic Water Energy, Basic Water Energy, Basic Water Energy
+golemeee's Radiant Greninja used Concealed Cards.
+- golemeee discarded Basic Water Energy.
+- golemeee drew 2 cards.
+   • Nest Ball, Superior Energy Retrieval
+golemeee's Baxcalibur used Super Cold.
+- golemeee attached Basic Water Energy to Chien-Pao ex in the Active Spot.
+- golemeee attached Basic Water Energy to Chien-Pao ex in the Active Spot.
+- golemeee attached Basic Water Energy to Chien-Pao ex in the Active Spot.
+golemeee's Chien-Pao ex used Hail Blade on Leosho’s Iron Hands ex for 240 damage.
+- 4 cards were discarded from golemeee's Chien-Pao ex.
+   • Basic Water Energy, Basic Water Energy, Basic Water Energy, Basic Water Energy
+Leosho's Iron Hands ex was Knocked Out!
+Leosho's Regieleki VMAX is now in the Active Spot.
+golemeee took 2 Prize cards.
+Ultra Ball was added to golemeee's hand.
+Nest Ball was added to golemeee's hand.
+
+Turn # 4 - Leosho's Turn
+Leosho drew a card.
+Leosho attached Basic Lightning Energy to Regieleki VMAX in the Active Spot.
+Leosho's Miraidon ex used Tandem Unit.
+- Leosho drew Zeraora and played it to the Bench.
+- Leosho shuffled their deck.
+Leosho's Regieleki VMAX used Max Thunder and Lightning on golemeee’s Chien-Pao ex for 220 damage.
+golemeee's Chien-Pao ex was Knocked Out!
+golemeee's Radiant Greninja is now in the Active Spot.
+Leosho took 2 Prize cards.
+A card was added to Leosho's hand.
+A card was added to Leosho's hand.
+
+Turn # 5 - golemeee's Turn
+golemeee drew Nest Ball.
+golemeee played Chien-Pao ex to the Bench.
+golemeee played PokéStop.
+- golemeee moved golemeee's 3 cards to the discard pile.
+   • Bibarel, Nest Ball, Boss's Orders
+- golemeee moved golemeee's Nest Ball to their hand.
+golemeee played Superior Energy Retrieval.
+- golemeee discarded 2 cards.
+   • Nest Ball, Nest Ball
+- golemeee moved golemeee's 4 cards to their hand.
+   • Basic Water Energy, Basic Water Energy, Basic Water Energy, Basic Water Energy
+golemeee's Radiant Greninja used Concealed Cards.
+- golemeee discarded Basic Water Energy.
+- golemeee drew 2 cards.
+   • PokéStop, Ultra Ball
+golemeee attached Basic Water Energy to Radiant Greninja in the Active Spot.
+golemeee retreated Radiant Greninja to the Bench.
+- Basic Water Energy was discarded from golemeee's Radiant Greninja.
+golemeee's Chien-Pao ex is now in the Active Spot.
+golemeee's Chien-Pao ex used Shivery Chill.
+- golemeee drew Basic Water Energy.
+- golemeee shuffled their deck.
+golemeee's Baxcalibur used Super Cold.
+- golemeee attached Basic Water Energy to Chien-Pao ex in the Active Spot.
+- golemeee attached Basic Water Energy to Chien-Pao ex in the Active Spot.
+- golemeee attached Basic Water Energy to Chien-Pao ex in the Active Spot.
+golemeee played Nest Ball.
+- golemeee shuffled their deck.
+golemeee played Buddy-Buddy Poffin.
+- golemeee shuffled their deck.
+golemeee played Ultra Ball.
+- golemeee discarded 2 cards.
+   • Nest Ball, PokéStop
+- golemeee shuffled their deck.
+golemeee's Bibarel used Industrious Incisors.
+- golemeee drew 3 cards.
+   • PokéStop, Irida, Rare Candy
+golemeee played Irida.
+- golemeee drew Superior Energy Retrieval.
+- golemeee shuffled their deck.
+golemeee played Superior Energy Retrieval.
+- golemeee discarded 2 cards.
+   • PokéStop, Ultra Ball
+- golemeee moved golemeee's 4 cards to their hand.
+   • Basic Water Energy, Basic Water Energy, Basic Water Energy, Basic Water Energy
+golemeee's Baxcalibur used Super Cold.
+- golemeee attached Basic Water Energy to Chien-Pao ex in the Active Spot.
+- golemeee attached Basic Water Energy to Chien-Pao ex in the Active Spot.
+- golemeee attached Basic Water Energy to Chien-Pao ex in the Active Spot.
+- golemeee attached Basic Water Energy to Chien-Pao ex in the Active Spot.
+golemeee's Chien-Pao ex used Hail Blade on Leosho’s Regieleki VMAX for 420 damage.
+- 7 cards were discarded from golemeee's Chien-Pao ex.
+   • Basic Water Energy, Basic Water Energy, Basic Water Energy, Basic Water Energy, Basic Water Energy, Basic Water Energy, Basic Water Energy
+Leosho's Regieleki VMAX was Knocked Out!
+- 4 cards were discarded from Leosho's Regieleki VMAX.
+   • Basic Lightning Energy, Basic Lightning Energy, Basic Lightning Energy, Regieleki V
+golemeee took a Prize card.
+Baxcalibur was added to golemeee's hand.
+All Prize cards taken. golemeee wins.
